@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ansh Srivastava</h1>
+<!-- <h3 align="center">A passionate Full Stack developer from India. I am experienced in the sport of Competitive Programming with 3+ year of experience in Data Structures and Algorithms and actively participating in Online Programming Competitions and I am 1800+ rated in Codechef and Leetcode</h3> -->
 
-<!--
-**Lorenzo-53/Lorenzo-53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=upendra2001&label=Profile%20views&color=0e75b6&style=flat" alt="upendra2001" /> </p> -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently learning **NodeJS, ExpressJS, MongoDB**
+
+- 📫 How to reach me **anshsrivastava834@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
