@@ -10,7 +10,7 @@ methodical approach</h3>
 
 - 📫 How to reach me **anshsrivastava834@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/14s_-QHEhy52aEvRNeLO9yvzNFC_3cRtX/view" target="_blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1lsM251g4npTloG3p5djuxtYB_PKA8aU_/view?usp=drive_link" target="_blank">Resume</a>
 
 - 💻 Personal <a href="https://ansh-codes.vercel.app/" target="_blank">Portfolio </a>
 
