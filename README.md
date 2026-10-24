@@ -3,11 +3,10 @@
 solutions, enjoy solving problems, and explore AI to enhance user experience. I thrive in fast-paced teams and bring creativity with a
 methodical approach</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lorenzo-53&label=Profile%20views&color=0e75b6&style=flat" alt="upendra2001" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lorenzo-53&label=Profile%20views&color=0e75b6&style=flat" alt="##" /> </p>
 
 
 
-- 🌱 I’m currently learning **NodeJS, ExpressJS, MongoDB**
 
 - 📫 How to reach me **anshsrivastava834@gmail.com**
 
